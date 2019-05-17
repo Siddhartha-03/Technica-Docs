@@ -7,7 +7,9 @@ Today, I am going to explain about one of the free link checker Open source tool
 achieve 100% accuracy for finding broken links in your web help.
 
 What is Xenu’s Link Sleuth?
-Xenu’s Link Sleuth is a link checker tool that helps the user to autochecks Web sites and web documents for broken links. It performs link verification, which appears in a tag, images, scripts, and stylesheet format. The tool uses a simple user-interface and can help users understand how certain Web sites and web documents are structured.
+Xenu’s Link Sleuth is a link checker tool that helps users to autochecks web documents for broken links.
+It performs link verification, which appears in a tag, images, scripts, and stylesheet format. 
+The tool uses a simple user-interface and can help users understand how certain Web sites and web documents are structured.
 
 Downloading and Installing Xenu Link
 To Download Xenu’s Sleuth Link, Click xenubeta.zip
