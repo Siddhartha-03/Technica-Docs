@@ -7,7 +7,7 @@ This is second headline
 
 ## Third headline for test
 wfeqeqf
-[Test1](/Test1)
+[Test1](Test1)
 
 ```
 name": "John Doe",
