@@ -1,10 +1,10 @@
-# Microsoft REST API Guidelines
+# Xylem API Document Guidelines
 
-## Microsoft REST API Guidelines Working Group
+## Xylem API Guidelines Working Group
 
 Name | Name | Name |
 ---------------------------- | -------------------------------------- | ----------------------------------------
-Dave Campbell (CTO C+E)      | Rick Rashid (CTO ASG)                  | John Shewchuk (Technical Fellow, TED HQ)
+Siddhartha (TDG)      | Jyoti (TDG)                  | John Shewchuk (Technical Fellow, TED HQ)
 Mark Russinovich (CTO Azure) | Steve Lucco (Technical Fellow, DevDiv) | Murali Krishnaprasad (Azure App Plat)
 Rob Howard (ASG)             | Peter Torr  (OSG)                      | Chris Mullins (ASG)
 
@@ -12,7 +12,7 @@ Rob Howard (ASG)             | Peter Torr  (OSG)                      | Chris Mu
 Document editors: John Gossman (C+E), Chris Mullins (ASG), Gareth Jones (ASG), Rob Dolin (C+E), Mark Stafford (C+E)<br/>
 </div>
 
-# Microsoft REST API Guidelines
+# Xylem API Document Guidelines
 
 ## 1. Abstract
 The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
@@ -23,7 +23,7 @@ This document establishes the guidelines Microsoft REST APIs SHOULD follow so RE
 ## 2. Table of contents
 <!-- TOC depthFrom:2 depthTo:4 orderedList:false updateOnSave:false withLinks:true -->
 
-- [Microsoft REST API Guidelines Working Group](#microsoft-rest-api-guidelines-working-group)
+- [Xylem API Guidelines Working Group](#microsoft-rest-api-guidelines-working-group)
 - [1. Abstract](#1-abstract)
 - [2. Table of contents](#2-table-of-contents)
 - [3. Introduction](#3-introduction)
